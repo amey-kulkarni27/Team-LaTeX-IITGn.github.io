@@ -7,7 +7,7 @@
 | Session 2 | <a href="https://drive.google.com/open?id=1Jqv1ONua3oyvqO1332XgdcrhPcInYQca">Formatting</a>| <a href="https://drive.google.com/open?id=1CZpHkDJvl0SmkVMvv5xQ2EI4n46dy-R9">Tables</a> | <a href = "https://drive.google.com/open?id=1eLAooExMUtUH9iGSigzeyDoj5-H1CtYN"> Beamer </a>
 | Session 3   |   <a href = "https://drive.google.com/open?id=1VPEinJ-TPNgMctsLAD6hD8CEi6dIxeEY"> Figures </a> |  <a href="https://drive.google.com/open?id=1AjTQAoRy5ohLwLxoOyvD5N_meZMlfo4-">Environments and Reports</a>|  <a href="https://drive.google.com/open?id=1tkOWRwCrVe5zCfDePyiAyLhRRW6rRgZ-">BibTeX</a>|
 
-Link to the live document: <a href ="https://www.overleaf.com/4426533784dxtdgswvqjzh
+Link to the live document: <a href ="https://www.overleaf.com/read/rkdftfqxtbfs
 "> Link </a>
 
 LaTeX Documentation : <a href = "https://www.overleaf.com/learn"> Link </a> 
