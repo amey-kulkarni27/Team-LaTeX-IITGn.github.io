@@ -18,7 +18,10 @@ LaTeX Cheat Sheet : <a href = "https://drive.google.com/file/d/1XkIUabiu3OJ_O2L4
 Math Symbol Detector: <a href="http://detexify.kirelabs.org/classify.html">Symbol Detector</a>
 
 <!-- Link to Game : <a href = "https://texnique.xyz/"> TeXnique </a> -->
- Link to Game (Day 1): <a href = "https://github.com/Team-LaTeX-IITGn/Team-LaTeX-IITGn.github.io"> You have to replicate this document and submit in the link below.</a>
+ Link to pdf for replication (GAME Day 1): <a href = "https://github.com/Team-LaTeX-IITGn/Team-LaTeX-IITGn.github.io"> Link.</a>
+ 
+ 
 Please submit your .tex file and the pdf file in the link below. Name the files with your name.
+
 Link to Game Submission(Day 1): <a href = "https://drive.google.com/open?id=1-8l4sQ0vjNU3uEo81r96BYWPptRnTffL"> Submit</a>
 
